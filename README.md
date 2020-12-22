@@ -1,6 +1,6 @@
 # Basic Chat App
 
-https://distracted-ride-9a7376.netlify.app/.netlify/functions/index
+https://node-chat.netlify.app/.netlify/functions/index
 
 ## Running the program
 
